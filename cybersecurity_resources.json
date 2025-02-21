@@ -1,0 +1,30 @@
+{
+    "Cybersecurity": [
+      {
+        "name": "Cybrary",
+        "url": "https://www.cybrary.it/",
+        "description": "Offers free and paid courses covering ethical hacking, network security, and penetration testing."
+      },
+      {
+        "name": "SANS Cyber Aces",
+        "url": "https://www.sans.org/cyber-aces/",
+        "description": "A beginner-friendly cybersecurity course covering networking and security fundamentals."
+      },
+      {
+        "name": "OWASP",
+        "url": "https://owasp.org/",
+        "description": "A platform for learning web security best practices and vulnerabilities."
+      },
+      {
+        "name": "Hack The Box Academy",
+        "url": "https://academy.hackthebox.com/",
+        "description": "A hands-on cybersecurity learning platform for ethical hacking practice."
+      },
+      {
+        "name": "Coursera - Introduction to Cybersecurity by NYU",
+        "url": "https://www.coursera.org/learn/intro-cyber-security",
+        "description": "A beginner-friendly course covering cybersecurity fundamentals and cryptography."
+      }
+    ]
+  }
+  

@@ -1,0 +1,24 @@
+{
+    "Deep Learning": [
+        {
+            "name": "Deep Learning Specialization by Andrew Ng",
+            "url": "https://www.coursera.org/specializations/deep-learning",
+            "description": "A comprehensive course covering neural networks, CNNs, RNNs, and more. Ideal for beginners and advanced learners."
+        },
+        {
+            "name": "Fast.ai Deep Learning Course",
+            "url": "https://www.fast.ai/",
+            "description": "A practical deep learning course that teaches model building using PyTorch."
+        },
+        {
+            "name": "Deep Learning with TensorFlow",
+            "url": "https://www.tensorflow.org/learn",
+            "description": "Official TensorFlow learning resources covering deep learning fundamentals, model building, and deployment."
+        },
+        {
+            "name": "MIT Deep Learning for Self-Driving Cars",
+            "url": "https://selfdrivingcars.mit.edu/",
+            "description": "A deep learning course by MIT focused on AI applications like computer vision and self-driving technology."
+        }
+    ]
+}

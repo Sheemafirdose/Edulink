@@ -1,0 +1,29 @@
+{
+    "Backend Development": [
+        {
+            "name": "The Odin Project",
+            "url": "https://www.theodinproject.com/",
+            "description": "A free, structured curriculum covering backend development with Node.js, databases, authentication, and APIs."
+        },
+        {
+            "name": "MDN Web Docs (Server-side)",
+            "url": "https://developer.mozilla.org/en-US/docs/Learn/Server-side",
+            "description": "Mozilla’s detailed documentation on backend development, covering Node.js, Express, databases, and security."
+        },
+        {
+            "name": "Backend Development Roadmap (roadmap.sh)",
+            "url": "https://roadmap.sh/backend",
+            "description": "A step-by-step learning guide covering backend technologies, databases, authentication, and security."
+        },
+        {
+            "name": "FreeCodeCamp Backend Course",
+            "url": "https://www.freecodecamp.org/news/tag/backend/",
+            "description": "Hands-on tutorials covering Node.js, Express.js, APIs, and databases with real-world projects."
+        },
+        {
+            "name": "SQLBolt",
+            "url": "https://sqlbolt.com/",
+            "description": "An interactive learning platform for mastering databases and SQL, essential for backend development."
+        }
+    ]
+}

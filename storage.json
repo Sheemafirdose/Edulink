@@ -1,0 +1,16 @@
+{
+    "categories": {
+        "Artificial Intelligence": "ai_resources.json",
+        
+        "Cloud Computing": "cloud_resources.json",
+        "Competitive Programming": "cp_resources.json",
+        "Data Science": "data_science_resources.json",
+        "Deep Learning": "dl_resources.json",
+        "DevOps": "devops_resources.json",
+        
+        "General Resources": "general_resources.json",
+        "Java": "java_resources.json",
+        "Machine Learning": "ml_resources.json",
+        "Python": "python_resources.json"
+    }
+}

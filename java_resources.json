@@ -1,0 +1,24 @@
+{
+    "Java": [
+        {
+            "name": "Java Official Docs",
+            "url": "https://docs.oracle.com/en/java/",
+            "description": "The best place to learn Java from Oracle’s official documentation. Covers core concepts, APIs, and best practices."
+        },
+        {
+            "name": "W3Schools Java",
+            "url": "https://www.w3schools.com/java/",
+            "description": "Beginner-friendly Java tutorials with interactive examples covering syntax, OOP concepts, exceptions, and more."
+        },
+        {
+            "name": "GeeksforGeeks Java",
+            "url": "https://www.geeksforgeeks.org/java/",
+            "description": "Comprehensive Java tutorials from basic to advanced, including coding problems, DSA, and interview preparation."
+        },
+        {
+            "name": "JavaPoint",
+            "url": "https://www.javatpoint.com/java-tutorial",
+            "description": "Detailed Java tutorials with hands-on examples. Covers frameworks like Spring, Hibernate, and Java EE."
+        }
+    ]
+}

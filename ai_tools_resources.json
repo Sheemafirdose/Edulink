@@ -1,0 +1,28 @@
+[
+    {
+      "name": "ChatGPT (OpenAI)",
+      "description": "An AI chatbot for text generation, coding, and automation.",
+      "url": "https://openai.com/chatgpt"
+    },
+    {
+      "name": "DeepSeek AI",
+      "description": "An advanced AI model offering search, code generation, and text-based AI assistance.",
+      "url": "https://www.deepseek.com/"
+    },
+    {
+      "name": "GitHub Copilot",
+      "description": "An AI-powered code assistant that helps developers write code faster using contextual suggestions.",
+      "url": "https://github.com/features/copilot"
+    },
+    {
+      "name": "Mistral AI",
+      "description": "A powerful open-weight AI model offering high-performance text generation capabilities.",
+      "url": "https://mistral.ai/"
+    },
+    {
+      "name": "Perplexity AI",
+      "description": "An AI-powered search engine providing accurate, contextualized answers to queries.",
+      "url": "https://www.perplexity.ai/"
+    }
+  ]
+  

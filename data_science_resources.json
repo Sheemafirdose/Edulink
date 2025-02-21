@@ -1,0 +1,30 @@
+{
+    "Data Science": [
+      {
+        "name": "Data Science Specialization by Johns Hopkins (Coursera)",
+        "url": "https://www.coursera.org/specializations/jhu-data-science",
+        "description": "A comprehensive program covering data analysis, R programming, and statistical inference."
+      },
+      {
+        "name": "Kaggle Learn",
+        "url": "https://www.kaggle.com/learn",
+        "description": "Free interactive courses on Python, data visualization, and machine learning."
+      },
+      {
+        "name": "Harvard Data Science Course (CS109)",
+        "url": "https://cs109.github.io/2015/",
+        "description": "Covers probability, statistics, and machine learning with Python and R."
+      },
+      {
+        "name": "Mode Analytics SQL Tutorial",
+        "url": "https://mode.com/sql-tutorial/",
+        "description": "A hands-on SQL course covering queries, joins, and data manipulation."
+      },
+      {
+        "name": "Data Science Handbook (O’Reilly)",
+        "url": "https://www.oreilly.com/library/view/data-science-handbook/9781491901410/",
+        "description": "A detailed guide covering best practices, algorithms, and case studies."
+      }
+    ]
+  }
+  

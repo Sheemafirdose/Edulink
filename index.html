@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Educational Resources</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f8f9fa;
+            margin: 0;
+            padding: 0;
+        }
+        .header {
+            background-color: #007bff;
+            color: white;
+            padding: 20px;
+            font-size: 28px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+        .sub-header {
+            font-size: 18px;
+            color: #555;
+            margin: 15px 0;
+        }
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 15px;
+            padding: 20px;
+            max-width: 1100px;
+            margin: auto;
+        }
+        .box {
+            background-color: white;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            cursor: pointer;
+            transition: 0.3s;
+            font-size: 16px;
+            font-weight: bold;
+            width: 180px;
+            text-align: center;
+        }
+        .box:hover {
+            background-color: #e9ecef;
+        }
+        .submit-button {
+            background-color: #28a745;
+            color: white;
+            padding: 12px 20px;
+            font-size: 16px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+        .submit-button:hover {
+            background-color: #218838;
+        }
+        .form-container {
+            display: none;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 40%;
+            margin: 20px auto;
+            text-align: left;
+        }
+        input, textarea {
+            width: calc(100% - 16px);
+            padding: 8px;
+            margin-top: 5px;
+            margin-bottom: 12px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+        button[type="submit"] {
+            background-color: #007bff;
+            color: white;
+            padding: 10px 15px;
+            font-size: 14px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+    <script>
+        function toggleForm() {
+            var form = document.getElementById("resourceForm");
+            form.style.display = (form.style.display === "none" || form.style.display === "") ? "block" : "none";
+        }
+    </script>
+</head>
+<body>
+    <div class="header" onclick="toggleForm()">Educational Resources Hub</div>
+    <p class="sub-header">Find and share useful study materials</p>
+
+    <div class="container">
+        <div class="box">Python</div>
+        <div class="box">Java</div>
+        <div class="box">C & C++</div>
+        <div class="box">Machine Learning</div>
+        <div class="box">Deep Learning</div>
+        <div class="box">AI & NLP</div>
+        <div class="box">Web Development</div>
+        <div class="box">Databases</div>
+        <div class="box">Cloud Computing</div>
+    </div>
+
+    <button class="submit-button" onclick="toggleForm()">Suggest or Add Resource</button>
+
+    <div id="resourceForm" class="form-container">
+        <h2>Submit a New Resource</h2>
+        <form>
+            <label for="name">Your Name:</label>
+            <input type="text" id="name" placeholder="Enter your name">
+            
+            <label for="department">Department:</label>
+            <input type="text" id="department" placeholder="Enter your department">
+            
+            <label for="url">Resource URL:</label>
+            <input type="url" id="url" placeholder="Enter resource URL">
+            
+            <label for="description">Short Description:</label>
+            <textarea id="description" rows="3" placeholder="Briefly describe the resource"></textarea>
+            
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+</body>
+</html>

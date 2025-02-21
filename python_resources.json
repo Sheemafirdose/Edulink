@@ -1,0 +1,34 @@
+{
+    "Python": [
+        {
+            "name": "Python Official Docs",
+            "url": "https://docs.python.org/3/",
+            "description": "The best place to learn Python from its official documentation."
+        },
+        {
+            "name": "W3Schools Python",
+            "url": "https://www.w3schools.com/python/",
+            "description": "Beginner-friendly tutorials with interactive examples."
+        },
+        {
+            "name": "Real Python",
+            "url": "https://realpython.com/",
+            "description": "High-quality Python tutorials and courses."
+        },
+        {
+            "name": "GeeksforGeeks Python",
+            "url": "https://www.geeksforgeeks.org/python-programming-language/",
+            "description": "Detailed Python tutorials covering all levels."
+        },
+        {
+            "name": "Programiz Python",
+            "url": "https://www.programiz.com/python-programming",
+            "description": "Simple, beginner-friendly tutorials with clear explanations."
+        },
+        {
+            "name": "coursera",
+            "url": "https://www.coursera.org/",
+            "description": "Launch your career as a Python developer with job-ready skills from Microsoft. "
+        }
+    ]
+}

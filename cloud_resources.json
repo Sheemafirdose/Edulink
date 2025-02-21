@@ -1,0 +1,26 @@
+{
+    "Cloud Computing": [
+      {
+        "name": "AWS Training and Certification",
+        "url": "https://www.aws.training/",
+        "description": "Official AWS courses covering cloud fundamentals, security, and hands-on labs."
+      },
+      {
+        "name": "Google Cloud Training",
+        "url": "https://cloud.google.com/training",
+        "description": "Covers Google Cloud services, Kubernetes, AI, and cloud security."
+      },
+      
+      {
+        "name": "Cloud Academy",
+        "url": "https://cloudacademy.com/",
+        "description": "Courses on AWS, Azure, Google Cloud, and DevOps with practical labs."
+      },
+      {
+        "name": "IBM Cloud Learn Hub",
+        "url": "https://www.ibm.com/cloud/learn",
+        "description": "Provides cloud computing tutorials and certifications on hybrid cloud and AI."
+      }
+    ]
+  }
+  

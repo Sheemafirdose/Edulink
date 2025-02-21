@@ -1,0 +1,30 @@
+{
+    "Competitive Programming": [
+      {
+        "name": "Codeforces",
+        "url": "https://codeforces.com/",
+        "description": "A popular platform for practicing competitive programming and contests."
+      },
+      {
+        "name": "AtCoder",
+        "url": "https://atcoder.jp/",
+        "description": "A site offering beginner to advanced-level contests with high-quality problems."
+      },
+      {
+        "name": "LeetCode",
+        "url": "https://leetcode.com/",
+        "description": "A platform for practicing DSA, algorithms, and interview coding problems."
+      },
+      {
+        "name": "CS50 by Harvard",
+        "url": "https://cs50.harvard.edu/",
+        "description": "A structured introduction to computer science and programming."
+      },
+      {
+        "name": "CP-Algorithms",
+        "url": "https://cp-algorithms.com/",
+        "description": "A knowledge base covering fundamental and advanced algorithms."
+      }
+    ]
+  }
+  

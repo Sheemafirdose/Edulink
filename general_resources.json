@@ -1,0 +1,14 @@
+{
+    "General Resources": [
+        {
+            "name": "ChatGPT",
+            "url": "https://chatgpt.com/",
+            "description": "ChatGPT is an AI language model that can assist with answering questions, providing insights, and helping with creative tasks!"
+        },
+        {
+            "name": "DeepSeek A",
+            "url": "https://www.deepseek.com/",
+            "description": " An advanced AI model offering search, code generation, and text-based AI assistance"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Machine Learning": [
+        {
+            "name": "Machine Learning Crash Course (Google)",
+            "url": "https://developers.google.com/machine-learning/crash-course",
+            "description": "A beginner-friendly ML course with hands-on TensorFlow exercises. Covers key ML concepts with real-world applications."
+        },
+        {
+            "name": "Kaggle Learn",
+            "url": "https://www.kaggle.com/learn",
+            "description": "Free ML courses with interactive coding exercises. Great for learning ML while working on real datasets and competitions."
+        },
+        {
+            "name": "Fast.ai",
+            "url": "https://www.fast.ai/",
+            "description": "Practical deep learning and ML courses. Focuses on hands-on learning with PyTorch for real-world applications."
+        },
+        {
+            "name": "Scikit-Learn Documentation",
+            "url": "https://scikit-learn.org/stable/user_guide.html",
+            "description": "The official docs for one of the most popular ML libraries. Covers algorithms, examples, and practical implementations."
+        },
+        {
+            "name": "Stanford CS229 (Machine Learning by Andrew Ng)",
+            "url": "https://cs229.stanford.edu/",
+            "description": "One of the most in-depth ML courses from Stanford. Covers theoretical and practical ML concepts."
+        }
+    ]
+}

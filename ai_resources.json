@@ -1,0 +1,25 @@
+{
+    "Artificial Intelligence": [
+      {
+        "name": "Artificial Intelligence by Stanford (CS221)",
+        "url": "https://cs221.stanford.edu/",
+        "description": "A foundational AI course covering search algorithms, machine learning, and probabilistic reasoning."
+      },
+      {
+        "name": "Elements of AI",
+        "url": "https://www.elementsofai.com/",
+        "description": "A free online course covering AI fundamentals, ethics, and real-world applications."
+      },
+      {
+        "name": "MIT OpenCourseWare – AI",
+        "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/",
+        "description": "A collection of AI courses covering deep learning, robotics, and NLP."
+      },
+      {
+        "name": "DeepLearning.AI by Andrew Ng",
+        "url": "https://www.deeplearning.ai/",
+        "description": "AI and deep learning courses covering machine learning, neural networks, and AI applications."
+      }
+    ]
+  }
+  

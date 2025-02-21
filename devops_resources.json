@@ -1,0 +1,30 @@
+{
+    "DevOps": [
+      {
+        "name": "Kubernetes Academy by VMware",
+        "url": "https://kubernetes.academy/",
+        "description": "Free courses on Kubernetes, containerization, and cloud-native DevOps."
+      },
+      {
+        "name": "AWS DevOps Training",
+        "url": "https://aws.amazon.com/training/devops/",
+        "description": "Covers CI/CD, automation, and AWS DevOps tools."
+      },
+      {
+        "name": "Microsoft Learn – DevOps",
+        "url": "https://learn.microsoft.com/en-us/training/roles/devops-engineer/",
+        "description": "Free learning paths on DevOps, Azure DevOps, and CI/CD."
+      },
+      {
+        "name": "Google Cloud DevOps Learning",
+        "url": "https://cloud.google.com/learn/topics/devops",
+        "description": "Hands-on labs and courses on DevOps automation and Kubernetes."
+      },
+      {
+        "name": "DevOps Roadmap (roadmap.sh)",
+        "url": "https://roadmap.sh/devops",
+        "description": "A structured learning path covering essential DevOps concepts and tools."
+      }
+    ]
+  }
+  

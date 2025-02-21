@@ -1,0 +1,29 @@
+{
+    "Frontend Development": [
+        {
+            "name": "MDN Web Docs",
+            "url": "https://developer.mozilla.org/",
+            "description": "A comprehensive resource by Mozilla covering HTML, CSS, JavaScript, and modern web development techniques."
+        },
+        {
+            "name": "FreeCodeCamp",
+            "url": "https://www.freecodecamp.org/",
+            "description": "Offers interactive coding challenges and full courses on frontend technologies like React, JavaScript, and CSS."
+        },
+        {
+            "name": "CSS-Tricks",
+            "url": "https://css-tricks.com/",
+            "description": "A popular website with tutorials, guides, and tips on modern CSS techniques and frontend best practices."
+        },
+        {
+            "name": "Frontend Masters",
+            "url": "https://frontendmasters.com/",
+            "description": "High-quality courses on frontend frameworks, JavaScript, UI/UX, and performance optimization."
+        },
+        {
+            "name": "JavaScript.info",
+            "url": "https://javascript.info/",
+            "description": "A structured guide to mastering JavaScript, covering both basic and advanced topics with hands-on examples."
+        }
+    ]
+}
